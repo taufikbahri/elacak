@@ -3,7 +3,7 @@ body {
 }
 
 .header {
-  background-image: url('assets/images/hero_banner.jpg');
+  background-image: url('../images/hero_banner.jpg');
   background-repeat: no-repeat;
   background-position: bottom;
   height: 250px;
@@ -44,7 +44,7 @@ body {
 
 .navbar-nav .nav-item .nav-link:hover {
   color: #4facfe;
-  background-image: url('assets/images/hover_menu.png');
+  background-image: url('../images/hover_menu.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: contain;
@@ -209,7 +209,7 @@ body {
 }
 
 .section-fitur {
-  background-image: url('assets/images/bg-fitur.jpg');
+  background-image: url('../images/bg-fitur.jpg');
   background-repeat: no-repeat;
   background-position: top;
   background-size: 100% auto;
@@ -271,7 +271,7 @@ body {
   position: absolute;
   width: 34px;
   height: 34px;
-  content: url('assets/images/fitur-arrow.png');
+  content: url('../images/fitur-arrow.png');
   right: -50px;
 }
 
@@ -297,7 +297,7 @@ body {
 
 .section-contact {
   text-align: center;
-  background-image: url('assets/images/background_before_footer.png');
+  background-image: url('../images/background_before_footer.png');
   background-repeat: no-repeat;
   background-attachment: 100% auto;
   color: #fff;
@@ -361,15 +361,15 @@ body {
 }
 
 .footer-contact__item.address {
-  background-image: url('assets/images/footer-alamat.png');
+  background-image: url('../images/footer-alamat.png');
 }
 
 .footer-contact__item.phone {
-  background-image: url('assets/images/footer-tlp.png');
+  background-image: url('../images/footer-tlp.png');
 }
 
 .footer-contact__item.email {
-  background-image: url('assets/images/footer-email.png');
+  background-image: url('../images/footer-email.png');
 }
 
 .footer-contact__more {
@@ -383,7 +383,7 @@ body {
   position: absolute;
   width: 20px;
   height: 20px;
-  content: url('assets/images/footer-arrow.png');
+  content: url('../images/footer-arrow.png');
   right: -30px;
   top: 0;
   bottom: 0;
